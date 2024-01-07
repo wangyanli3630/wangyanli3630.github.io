@@ -18,9 +18,9 @@ Selected Awards ✨
 - 1st Class Scholarship at SCUT, 2022
 - 2st Class Scholarship at SCUT, 2020
 - Merit Student at SCUT, in 2020, 2022
-- 2st Class Prize at the Provincial Level in the Competition of the National College Student Mathematical Modeling, 2021
-- 2st Class Prize at the Provincial Level in the Competition of the National College Student Mathematics, 2021
 - 2st Class Prize in the Competition of the International Mathematical Modeling, 2022
 - 1st Class Prize at the Provincial Level in the Competition of the National College Student Statistical Modeling, 2022
-- 2st Class Prize at the Provincial Level in the Competition of the National Middle School Computer Production, 2018
 - 2st Class Prize at Youxin Cloud Cup: Big Data Management and Application Innovation Competition - Rural Revitalization Special Contest (¥5000), 2022
+- 2st Class Prize at the Provincial Level in the Competition of the National College Student Mathematical Modeling, 2021
+- 2st Class Prize at the Provincial Level in the Competition of the National College Student Mathematics, 2021
+- 2st Class Prize at the Provincial Level in the Competition of the National Middle School Computer Production, 2018
