@@ -86,8 +86,8 @@ author:
   location         : "Zhuhai, Guangdong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=_BAvh48AAAAJ&hl=en"
+  email            : "wangyli58@mail2.sysu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  huggingface      : "https://huggingface.co/nov3630"
 
 
 # Reading Files
