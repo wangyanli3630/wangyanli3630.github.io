@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Introduction
 ------
 I am a master's student at the School of Software Engineering, Sun Yat-sen University. My supervisor is [Prof. Yanlin Wang](https://yanlin.info/) and thank her for her multi-faceted supports. Before going to Sun Yat-sen University, I received the B.S. degree in E-Commerce from South China University of Technology in June 2023.
