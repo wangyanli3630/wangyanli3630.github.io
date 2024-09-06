@@ -24,7 +24,7 @@ Educations
 Publications
 ------
 **RLCoder: Reinforcement Learning for Repository-Level Code Completion**  
-<small>**ICSE 2024**  [PDF](https://arxiv.org/pdf/2407.19487.pdf) | [Code](https://github.com/DeepSoftwareAnalytics/RLCoder)</small>  
+<small>**ICSE 2025**  [PDF](https://arxiv.org/pdf/2407.19487.pdf) | [Code](https://github.com/DeepSoftwareAnalytics/RLCoder)</small>  
 <small>Yanlin Wang, **Yanli Wang**, Daya Guo, Jiachi Chen, Ruikai Zhang, Yuchi Ma, and Zibin Zheng</small>  
 <small>**TLDR:** RLCoder is a novel reinforcement learning framework, which can enable the retriever to learn to retrieve useful content for code completion without the need for labeled data, and introduces a stop signal mechanism.</small>  
 
