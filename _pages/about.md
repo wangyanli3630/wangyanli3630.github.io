@@ -33,6 +33,11 @@ Publications
 <small>**Yanli Wang**, Yanlin Wang, Suiquan Wang, Daya Guo, Jiachi Chen, John Grundy, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng</small>  
 <small>**TLDR:** RepoTransBench is a comprehensive repository-level code translation benchmark featuring 1,897 real-world repository samples across 13 language pairs with automatically executable test suites. Unlike previous fine-grained benchmarks that focus on snippets, functions, or files, RepoTransBench addresses real-world demands where entire repositories need translation.</small>  
 
+**AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion**  
+<small>**ASE 2025**  [PDF]() | [Code]()</small>  
+<small>Tianyue Jiang, **Yanli Wang**, Yanlin Wang, Daya Guo, Ensheng Shi, Yuchi Ma, Jiachi Chen, Zibin Zheng</small>  
+<small>**TLDR:** AlignCoder generates multiple candidate completions to create enhanced queries that bridge the semantic gap between initial queries and target code, using reinforcement learning to train a retriever for more accurate repository-level code completion.</small>  
+
 
 Awards
 ------
