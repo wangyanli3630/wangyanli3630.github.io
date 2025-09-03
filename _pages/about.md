@@ -28,10 +28,10 @@ Publications
 <small>Yanlin Wang, **Yanli Wang**, Daya Guo, Jiachi Chen, Ruikai Zhang, Yuchi Ma, and Zibin Zheng</small>  
 <small>**TLDR:** RLCoder is a novel reinforcement learning framework, which can enable the retriever to learn to retrieve useful content for code completion without the need for labeled data, and introduces a stop signal mechanism.</small>  
 
-**RLCoder: Reinforcement Learning for Repository-Level Code Completion**  
-<small>**ICSE 2025**  [PDF](https://arxiv.org/pdf/2407.19487.pdf) | [Code](https://github.com/DeepSoftwareAnalytics/RLCoder)</small>  
-<small>Yanlin Wang, **Yanli Wang**, Daya Guo, Jiachi Chen, Ruikai Zhang, Yuchi Ma, and Zibin Zheng</small>  
-<small>**TLDR:** RLCoder is a novel reinforcement learning framework, which can enable the retriever to learn to retrieve useful content for code completion without the need for labeled data, and introduces a stop signal mechanism.</small>  
+**RepoTransBench: A Real-World Multilingual Benchmark for Repository-Level Code Translation**  
+<small>**ICSE 2025**  [PDF](https://arxiv.org/pdf/2412.17744) | [Code](https://github.com/DeepSoftwareAnalytics/RepoTransBench)</small>  
+<small>**Yanli Wang**, Yanlin Wang, Suiquan Wang, Daya Guo, Jiachi Chen, John Grundy, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng</small>  
+<small>**TLDR:** RepoTransBench is a comprehensive repository-level code translation benchmark featuring 1,897 real-world repository samples across 13 language pairs with automatically executable test suites. Unlike previous fine-grained benchmarks that focus on snippets, functions, or files, RepoTransBench addresses real-world demands where entire repositories need translation.</small>  
 
 
 Awards
