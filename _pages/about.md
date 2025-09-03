@@ -29,8 +29,10 @@ Publications
 <small>**TLDR:** RLCoder is a novel reinforcement learning framework, which can enable the retriever to learn to retrieve useful content for code completion without the need for labeled data, and introduces a stop signal mechanism.</small>  
 
 
+
 Awards
 ------
+- 1st Prize, Baidu Business AI Technology Innovation Competition (South China Region), 2024
 - 1st Class Scholarship at SCUT, 2022
 - 2nd Class Scholarship at SCUT, 2020
 - Merit Student at SCUT, in 2020, 2022
