@@ -32,7 +32,7 @@ Publications
 
 Awards
 ------
-- 1st Prize, Baidu Business AI Technology Innovation Competition (South China Region), 2024
+- 1st Prize in the South China Region of Baidu Business AI Technology Innovation Competition (¥5000), 2024
 - 1st Class Scholarship at SCUT, 2022
 - 2nd Class Scholarship at SCUT, 2020
 - Merit Student at SCUT, in 2020, 2022
