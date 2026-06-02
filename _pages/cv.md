@@ -9,34 +9,46 @@ redirect_from:
 ---
 
 <header class="profile-header">
-  <h1>Yanli Wang</h1>
-  <div class="profile-card">
+  <div class="profile-copy">
+    <p class="eyebrow">Curriculum Vitae</p>
+    <h1>Yanli Wang</h1>
+    <p class="intro">M.S. student in Software Engineering at Sun Yat-sen University, working on large language models and code intelligence.</p>
+    <div class="identity-links">
+      <a href="/" rel="home">Homepage</a>
+      <a href="mailto:wangyli58@mail2.sysu.edu.cn">Email</a>
+      <a href="https://scholar.google.com/citations?user=_BAvh48AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://github.com/wangyanli3630" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+  <div class="profile-media">
     <img class="profile-photo" src="/images/profile.png" alt="Yanli Wang">
-    <div class="identity">
-      <p>Master's student</p>
-      <p><a href="https://sse.sysu.edu.cn/" target="_blank" rel="noopener">School of Software Engineering</a></p>
-      <p><a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a></p>
-      <p>E-mail: <a href="mailto:wangyli58@mail2.sysu.edu.cn">wangyli58@mail2.sysu.edu.cn</a></p>
-      <div class="identity-links">
-        <a href="/" rel="home">Homepage</a>
-        <a href="https://scholar.google.com/citations?user=_BAvh48AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
-        <a href="https://github.com/wangyanli3630" target="_blank" rel="noopener">GitHub</a>
+    <p>School of Software Engineering<br><a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a><br>Zhuhai, Guangdong</p>
+  </div>
+</header>
+
+<section class="section section-feature">
+  <h2>Education</h2>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-date">Aug. 2023 - Present</div>
+      <div>
+        <strong>Sun Yat-sen University</strong>
+        <p>M.S. in Software Engineering. Supervised by <a href="https://yanlin.info/" target="_blank" rel="noopener">Prof. Yanlin Wang</a>.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Aug. 2019 - Jun. 2023</div>
+      <div>
+        <strong>South China University of Technology</strong>
+        <p>B.S. in E-Commerce.</p>
       </div>
     </div>
   </div>
-</header>
+</section>
 
 <section class="section">
   <h2>Research Interests</h2>
   <p>Large language models, code intelligence, repository-level code completion, retrieval-augmented code generation, and repository-level code translation.</p>
-</section>
-
-<section class="section">
-  <h2>Education</h2>
-  <ul class="education-list">
-    <li><strong>Sun Yat-sen University</strong>, M.S. in Software Engineering, August 2023 - Present.</li>
-    <li><strong>South China University of Technology</strong>, B.S. in E-Commerce, August 2019 - June 2023.</li>
-  </ul>
 </section>
 
 <section class="section">

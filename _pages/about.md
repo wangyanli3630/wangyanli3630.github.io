@@ -10,37 +10,46 @@ redirect_from:
 ---
 
 <header class="profile-header">
-  <h1>Yanli Wang</h1>
-  <div class="profile-card">
-    <img class="profile-photo" src="/images/profile.png" alt="Yanli Wang">
-    <div class="identity">
-      <p>Master's student</p>
-      <p><a href="https://sse.sysu.edu.cn/" target="_blank" rel="noopener">School of Software Engineering</a></p>
-      <p><a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a></p>
-      <p>Zhuhai, Guangdong, China</p>
-      <p>E-mail: <a href="mailto:wangyli58@mail2.sysu.edu.cn">wangyli58@mail2.sysu.edu.cn</a></p>
-      <div class="identity-links">
-        <a href="https://scholar.google.com/citations?user=_BAvh48AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
-        <a href="https://github.com/wangyanli3630" target="_blank" rel="noopener">GitHub</a>
-        <a href="/cv/">CV</a>
-      </div>
+  <div class="profile-copy">
+    <p class="eyebrow">M.S. Student in Software Engineering</p>
+    <h1>Yanli Wang</h1>
+    <p class="intro">I work on large language models and code intelligence, with a focus on repository-level code completion and code translation.</p>
+    <div class="identity-links">
+      <a href="mailto:wangyli58@mail2.sysu.edu.cn">Email</a>
+      <a href="https://scholar.google.com/citations?user=_BAvh48AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://github.com/wangyanli3630" target="_blank" rel="noopener">GitHub</a>
+      <a href="/cv/">CV</a>
     </div>
+  </div>
+  <div class="profile-media">
+    <img class="profile-photo" src="/images/profile.png" alt="Yanli Wang">
+    <p>School of Software Engineering<br><a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a><br>Zhuhai, Guangdong</p>
   </div>
 </header>
 
-<section class="section">
-  <h2>About me</h2>
-  <p class="lead">I am a master's student at the School of Software Engineering, Sun Yat-sen University, supervised by <a href="https://yanlin.info/" target="_blank" rel="noopener">Prof. Yanlin Wang</a>. Before joining Sun Yat-sen University, I received my B.S. degree in E-Commerce from South China University of Technology in June 2023.</p>
-  <p class="research-note">My research interests include large language models, code intelligence, repository-level code completion, and repository-level code translation.</p>
+<section class="section section-feature">
+  <h2>Education</h2>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-date">Aug. 2023 - Present</div>
+      <div>
+        <strong>Sun Yat-sen University</strong>
+        <p>M.S. in Software Engineering. Supervised by <a href="https://yanlin.info/" target="_blank" rel="noopener">Prof. Yanlin Wang</a>.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-date">Aug. 2019 - Jun. 2023</div>
+      <div>
+        <strong>South China University of Technology</strong>
+        <p>B.S. in E-Commerce.</p>
+      </div>
+    </div>
+  </div>
 </section>
 
 <section class="section">
-  <h2>Recent news</h2>
-  <ul class="news-list">
-    <li><strong>2025.</strong> Our paper <em>AlignCoder</em> was accepted by ASE 2025.</li>
-    <li><strong>2025.</strong> Our paper <em>RepoTransBench</em> was accepted by TSE 2025.</li>
-    <li><strong>2025.</strong> Our paper <em>RLCoder</em> was accepted by ICSE 2025.</li>
-  </ul>
+  <h2>Research Interests</h2>
+  <p class="lead">My research focuses on large language models for software engineering, including retrieval-augmented code generation, repository-level code completion, and repository-level code translation.</p>
 </section>
 
 <section class="section">
@@ -65,10 +74,11 @@ redirect_from:
 </section>
 
 <section class="section">
-  <h2>Education</h2>
-  <ul class="education-list">
-    <li><strong>Sun Yat-sen University</strong>, M.S. in Software Engineering, August 2023 - Present.</li>
-    <li><strong>South China University of Technology</strong>, B.S. in E-Commerce, August 2019 - June 2023.</li>
+  <h2>Selected Updates</h2>
+  <ul class="news-list">
+    <li><strong>2025.</strong> Our paper <em>AlignCoder</em> was accepted by ASE 2025.</li>
+    <li><strong>2025.</strong> Our paper <em>RepoTransBench</em> was accepted by TSE 2025.</li>
+    <li><strong>2025.</strong> Our paper <em>RLCoder</em> was accepted by ICSE 2025.</li>
   </ul>
 </section>
 
