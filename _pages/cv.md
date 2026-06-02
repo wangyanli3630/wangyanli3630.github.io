@@ -1,59 +1,74 @@
 ---
-layout: archive
+layout: minimal-academic
 title: "CV"
 permalink: /cv/
-author_profile: true
+description: "Curriculum vitae of Yanli Wang."
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<header class="profile-header">
+  <h1>Yanli Wang</h1>
+  <div class="profile-card">
+    <img class="profile-photo" src="/images/profile.png" alt="Yanli Wang">
+    <div class="identity">
+      <p>Master's student</p>
+      <p><a href="https://sse.sysu.edu.cn/" target="_blank" rel="noopener">School of Software Engineering</a></p>
+      <p><a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a></p>
+      <p>E-mail: <a href="mailto:wangyli58@mail2.sysu.edu.cn">wangyli58@mail2.sysu.edu.cn</a></p>
+      <div class="identity-links">
+        <a href="/" rel="home">Homepage</a>
+        <a href="https://scholar.google.com/citations?user=_BAvh48AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://github.com/wangyanli3630" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </div>
+</header>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<section class="section">
+  <h2>Research Interests</h2>
+  <p>Large language models, code intelligence, repository-level code completion, retrieval-augmented code generation, and repository-level code translation.</p>
+</section>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<section class="section">
+  <h2>Education</h2>
+  <ul class="education-list">
+    <li><strong>Sun Yat-sen University</strong>, M.S. in Software Engineering, August 2023 - Present.</li>
+    <li><strong>South China University of Technology</strong>, B.S. in E-Commerce, August 2019 - June 2023.</li>
+  </ul>
+</section>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<section class="section">
+  <h2>Publications</h2>
+  <ol class="publication-list">
+    <li>
+      <div><span class="paper-title">AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion</span> (<span class="venue">ASE 2025</span>)</div>
+      <p class="authors">Tianyue Jiang, <strong>Yanli Wang</strong>, Yanlin Wang, Daya Guo, Ensheng Shi, Yuchi Ma, Jiachi Chen, Zibin Zheng.</p>
+    </li>
+    <li>
+      <div><span class="paper-title">RepoTransBench: A Real-World Multilingual Benchmark for Repository-Level Code Translation</span> (<span class="venue">TSE 2025</span>)</div>
+      <p class="authors"><strong>Yanli Wang</strong>, Yanlin Wang, Suiquan Wang, Daya Guo, Jiachi Chen, John Grundy, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng.</p>
+    </li>
+    <li>
+      <div><span class="paper-title">RLCoder: Reinforcement Learning for Repository-Level Code Completion</span> (<span class="venue">ICSE 2025</span>)</div>
+      <p class="authors">Yanlin Wang, <strong>Yanli Wang</strong>, Daya Guo, Jiachi Chen, Ruikai Zhang, Yuchi Ma, Zibin Zheng.</p>
+    </li>
+  </ol>
+</section>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<section class="section">
+  <h2>Awards</h2>
+  <ul class="award-list">
+    <li>1st Prize in the South China Region of Baidu Business AI Technology Innovation Competition, 2024.</li>
+    <li>1st Class Scholarship at SCUT, 2022.</li>
+    <li>2nd Class Scholarship at SCUT, 2020.</li>
+    <li>Merit Student at SCUT, 2020 and 2022.</li>
+    <li>2nd Class Prize in the Competition of the International Mathematical Modeling, 2022.</li>
+    <li>1st Class Prize in the Guangdong Area of the National College Student Statistical Modeling Competition, 2022.</li>
+    <li>2nd Class Prize at Youxin Cloud Cup: Big Data Management and Application Innovation Competition - Rural Revitalization Track, 2022.</li>
+    <li>2nd Class Prize in the Guangdong Area of the National College Student Mathematical Modeling Competition, 2021.</li>
+    <li>2nd Class Prize in the Guangdong Area of the National College Student Mathematical Competition, 2021.</li>
+    <li>2nd Class Prize in the Henan Area of the National Middle School Computer Production Competition, 2018.</li>
+  </ul>
+</section>
