@@ -24,7 +24,7 @@ Educations
 Publications
 ------
 **SabreCoder: From Logical to Computational Sparsity: Structure-Aware Block-Sparse Attention for Long Code Completion**  
-<small>**ACL 2026**[Paper]() | [Code](https://github.com/DeepSoftwareAnalytics/SabreCoder)</small>  
+<small>**ACL 2026** [Paper]() | [Code](https://github.com/DeepSoftwareAnalytics/SabreCoder)</small>  
 <small>**Yanli Wang**, Yanlin Wang, Bowen Zhang, Yiwei Zhang, Daya Guo, Jiachi Chen, Hongyu Zhang, Zibin Zheng</small>  
 <small>**TLDR:** SabreCoder is a training-free structure-aware block-sparse attention mechanism that bridges logical and computational sparsity for long code completion. By parsing code into semantic chunks, constructing chunk-level sparse patterns via dependency analysis and similarity matching, and mapping them to GPU-friendly block-sparse formats, SabreCoder reduces Time-To-First-Token (TTFT) by 45-55% while maintaining accuracy within 3% of dense attention.</small>
 
@@ -34,7 +34,7 @@ Publications
 <small>**TLDR:** RepoTransBench is a comprehensive repository-level code translation benchmark featuring 1,897 real-world repository samples across 13 language pairs with automatically executable test suites. Unlike previous fine-grained benchmarks that focus on snippets, functions, or files, RepoTransBench addresses real-world demands where entire repositories need translation.</small>  
 
 **AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion**  
-<small>**ASE 2025**  [Paper](https://conf.researchr.org/details/ase-2025/ase-2025-papers/34/AlignCoder-Aligning-Retrieval-with-Target-Intent-for-Repository-Level-Code-Completio) | [Code](https://github.com/DeepSoftwareAnalytics/AlignCoder)</small>  
+<small>**ASE 2025**  [Paper](https://arxiv.org/abs/2601.19697) | [Code](https://github.com/DeepSoftwareAnalytics/AlignCoder)</small>  
 <small>Tianyue Jiang, **Yanli Wang**, Yanlin Wang, Daya Guo, Ensheng Shi, Yuchi Ma, Jiachi Chen, Zibin Zheng</small>  
 <small>**TLDR:** AlignCoder generates multiple candidate completions to create enhanced queries that bridge the semantic gap between initial queries and target code, using reinforcement learning to train a retriever for more accurate repository-level code completion.</small>  
 
