@@ -23,31 +23,40 @@ Educations
 
 Publications
 ------
-**RLCoder: Reinforcement Learning for Repository-Level Code Completion**  
-<small>**ICSE 2025**  [Paper](https://arxiv.org/abs/2407.19487) | [Code](https://github.com/DeepSoftwareAnalytics/RLCoder)</small>  
-<small>Yanlin Wang, **Yanli Wang**, Daya Guo, Jiachi Chen, Ruikai Zhang, Yuchi Ma, and Zibin Zheng</small>  
-<small>**TLDR:** RLCoder is a novel reinforcement learning framework, which can enable the retriever to learn to retrieve useful content for code completion without the need for labeled data, and introduces a stop signal mechanism.</small>  
-
-**AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion**  
-<small>**ASE 2025**  [Paper](https://conf.researchr.org/details/ase-2025/ase-2025-papers/34/AlignCoder-Aligning-Retrieval-with-Target-Intent-for-Repository-Level-Code-Completio) | [Code](https://github.com/DeepSoftwareAnalytics/AlignCoder)</small>  
-<small>Tianyue Jiang, **Yanli Wang**, Yanlin Wang, Daya Guo, Ensheng Shi, Yuchi Ma, Jiachi Chen, Zibin Zheng</small>  
-<small>**TLDR:** AlignCoder generates multiple candidate completions to create enhanced queries that bridge the semantic gap between initial queries and target code, using reinforcement learning to train a retriever for more accurate repository-level code completion.</small>  
+**SabreCoder: From Logical to Computational Sparsity: Structure-Aware Block-Sparse Attention for Long Code Completion**  
+<small>**ACL 2026**[Paper]() | [Code](https://github.com/DeepSoftwareAnalytics/SabreCoder)</small>  
+<small>**Yanli Wang**, Yanlin Wang, Bowen Zhang, Yiwei Zhang, Daya Guo, Jiachi Chen, Hongyu Zhang, Zibin Zheng</small>  
+<small>**TLDR:** SabreCoder is a training-free structure-aware block-sparse attention mechanism that bridges logical and computational sparsity for long code completion. By parsing code into semantic chunks, constructing chunk-level sparse patterns via dependency analysis and similarity matching, and mapping them to GPU-friendly block-sparse formats, SabreCoder reduces Time-To-First-Token (TTFT) by 45-55% while maintaining accuracy within 3% of dense attention.</small>
 
 **RepoTransBench: A Real-World Multilingual Benchmark for Repository-Level Code Translation**  
 <small>**TSE 2025**  [Paper](https://arxiv.org/abs/2412.17744) | [Code](https://github.com/DeepSoftwareAnalytics/RepoTransBench)</small>  
 <small>**Yanli Wang**, Yanlin Wang, Suiquan Wang, Daya Guo, Jiachi Chen, John Grundy, Xilin Liu, Yuchi Ma, Mingzhi Mao, Hongyu Zhang, Zibin Zheng</small>  
 <small>**TLDR:** RepoTransBench is a comprehensive repository-level code translation benchmark featuring 1,897 real-world repository samples across 13 language pairs with automatically executable test suites. Unlike previous fine-grained benchmarks that focus on snippets, functions, or files, RepoTransBench addresses real-world demands where entire repositories need translation.</small>  
 
+**AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion**  
+<small>**ASE 2025**  [Paper](https://conf.researchr.org/details/ase-2025/ase-2025-papers/34/AlignCoder-Aligning-Retrieval-with-Target-Intent-for-Repository-Level-Code-Completio) | [Code](https://github.com/DeepSoftwareAnalytics/AlignCoder)</small>  
+<small>Tianyue Jiang, **Yanli Wang**, Yanlin Wang, Daya Guo, Ensheng Shi, Yuchi Ma, Jiachi Chen, Zibin Zheng</small>  
+<small>**TLDR:** AlignCoder generates multiple candidate completions to create enhanced queries that bridge the semantic gap between initial queries and target code, using reinforcement learning to train a retriever for more accurate repository-level code completion.</small>  
+
+**RLCoder: Reinforcement Learning for Repository-Level Code Completion**  
+<small>**ICSE 2025**  [Paper](https://arxiv.org/abs/2407.19487) | [Code](https://github.com/DeepSoftwareAnalytics/RLCoder)</small>  
+<small>Yanlin Wang, **Yanli Wang**, Daya Guo, Jiachi Chen, Ruikai Zhang, Yuchi Ma, and Zibin Zheng</small>  
+<small>**TLDR:** RLCoder is a novel reinforcement learning framework, which can enable the retriever to learn to retrieve useful content for code completion without the need for labeled data, and introduces a stop signal mechanism.</small>  
+
 
 Awards
 ------
-- 1st Prize in the South China Region of Baidu Business AI Technology Innovation Competition (¥3000), 2024
+- National Scholarship, 2025
+- 1st Class Graduate Scholarship at SYSU, 2024 & 2025
+- 2nd Class Graduate Scholarship at SYSU, 2023
+- Zhaolian Finance Scholarship, 2024
+- 1st Prize, Baidu Business AI Technology Innovation Competition (South China Region, ¥3000), 2024
 - 1st Class Scholarship at SCUT, 2022
 - 2nd Class Scholarship at SCUT, 2020
-- Merit Student at SCUT, in 2020, 2022
-- 2nd Class Prize in the Competition of the International Mathematical Modeling, 2022
-- 1st Class Prize in the Guangdong Area of the National College Student Statistical Modeling Competition, 2022
-- 2st Class Prize at Youxin Cloud Cup: Big Data Management and Application Innovation Competition - Rural Revitalization Track (¥5000), 2022
-- 2nd Class Prize in the Guangdong Area of the National College Student Mathematical Modeling Competition, 2021
-- 2nd Class Prize in the Guangdong Area of the National College Student Mathematical Competition, 2021
-- 2nd Class Prize in the Henan Area of the National Middle School Computer Production Competition, 2018
+- Merit Student at SCUT, 2020 & 2022
+- 2nd Prize, International Mathematical Contest in Modeling, 2022
+- 1st Prize, National College Student Statistical Modeling Competition (Guangdong), 2022
+- 2nd Prize, Youxin Cloud Cup: Big Data Management and Application Innovation Competition – Rural Revitalization Track (¥5000), 2022
+- 2nd Prize, National College Student Mathematical Modeling Competition (Guangdong), 2021
+- 2nd Prize, National College Student Mathematical Competition (Guangdong), 2021
+- 2nd Prize, National Middle School Computer Production Competition (Henan), 2018
